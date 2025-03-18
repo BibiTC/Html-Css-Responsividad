@@ -44,6 +44,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 82px; /*espacio entre la imagen y abajo con el texto, estaba muy pegado*/
 }
 
 .presentacion__contenido{
@@ -134,3 +135,14 @@ body{
     }
     
 }
+
+
+@media (max-width: 1023px) {
+
+    
+    .presentacion {
+        flex-direction: column;
+        /* Otras propiedades, si es necesario */
+    }
+}
+
