@@ -12,6 +12,6 @@
 
 ## Hecho por:
 
-###Ana García
+###Bibiana Trujillo
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
